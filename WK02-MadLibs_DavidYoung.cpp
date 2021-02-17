@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : MadLibs_DavidYoung.cpp
-// Author      : update from aspire
+// Author      : David Young
 // Version     : 1.0
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style

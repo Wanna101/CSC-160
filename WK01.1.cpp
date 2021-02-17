@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : 1.cpp
-// Author      : 
+// Author      : David Young
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
