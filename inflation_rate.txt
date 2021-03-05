@@ -1,0 +1,5 @@
+Item name: Dad
+Cost a year ago: $0
+Cost Today: $-100
+Inflation rate: -inf%
+
